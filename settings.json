@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zx7playz.aternos.me:",
-    "port": 54006,
-    "version": "1.21.11"
+    "ip": "brokillerfast.aternos.me",
+    "port": 33463,
+    "version": "26.3 (235)"
   },
   "position": {
     "enabled": true,
